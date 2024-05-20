@@ -24,18 +24,18 @@ The Restaurant Website is designed to provide a comprehensive platform for custo
 
 To set up the project locally, follow these steps:
 
-# Clone the repository
+## Clone the repository
 git clone https://github.com/dhruv-joshi25/restaurant-website.git
 
-# Navigate to the project directory
+## Navigate to the project directory
 cd restaurant-website
 
-# Install dependencies
+## Install dependencies
 npm install
 npm react-router-dom
 
-# Usage
+## Usage
 Start the development server:
 npm start
 
-# Open your browser and navigate to http://localhost:3000.
+## Open your browser and navigate to http://localhost:3000.
